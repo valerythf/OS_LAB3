@@ -1,0 +1,180 @@
+valery@valeryTF:~/OS_LAB3$ ./solution 1
+
+	Time for 1 proccessing: 0.309658 s
+	Minimum of array is  2
+        Time for single proc: 0.190613 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         0.615560
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.615560
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 2
+
+	Time for 2 proccessing: 0.164270 s
+	Minimum of array is  2
+	Time for single proc: 0.190469 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.159487
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.579744
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 3
+
+	Time for 3 proccessing: 0.115137 s
+	Minimum of array is  2
+	Time for single proc: 0.190492 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.654481
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.551494
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 4
+
+	Time for 4 proccessing: 0.099701 s
+	Minimum of array is  2
+	Time for single proc: 0.190122 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.906922
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.476730
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 5
+
+	Time for 5 proccessing: 0.085504 s
+	Minimum of array is  2
+	Time for single proc: 0.190725 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         2.230597
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.446119
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 6
+
+	Time for 6 proccessing: 0.087177 s
+	Minimum of array is  2
+	Time for single proc: 0.190387 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         2.183913
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.363986
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 7
+
+	Time for 7 proccessing: 0.095472 s
+	Minimum of array is  2
+	Time for single proc: 0.227569 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         2.383620
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.340517
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 8
+
+	Time for 8 proccessing: 0.097648 s
+	Minimum of array is  2
+	Time for single proc: 0.190951 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.955503
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.244438
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 9
+
+	Time for 9 proccessing: 0.100932 s
+	Minimum of array is  3
+	Time for single proc: 0.225923 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         2.238368
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.248708
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 10
+
+	Time for 10 proccessing: 0.100629 s
+	Minimum of array is  3
+	Time for single proc: 0.190898 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.897048
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.189705
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 15
+
+	Time for 15 proccessing: 0.101031 s
+	Minimum of array is  2
+	Time for single proc: 0.192126 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.901654
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.126777
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 20
+
+	Time for 20 proccessing: 0.119537 s
+	Minimum of array is  3
+	Time for single proc: 0.226261 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.892811
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.094641
+
+
+valery@valeryTF:~/OS_LAB3$ ./solution 25
+
+	Time for 25 proccessing: 0.124050 s
+	Minimum of array is  3
+	Time for single proc: 0.190374 s
+	Minimum of array is  0
+
+
+
+	Results
+	Ускорение S(n)=T(1)/T(n):         1.534655
+	Эффективность E(n)=S(n)/n=T(1)/(nT(n)): 0.061386
